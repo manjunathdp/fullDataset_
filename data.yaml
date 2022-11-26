@@ -1,6 +1,6 @@
-train: fullDataset/train/images
-val: fullDataset/valid/images
-test: fullDataset/test/images
+train: fullDataset_/train/images
+val: fullDataset_/valid/images
+test: fullDataset_/test/images
 
 nc: 2
 names: ['abw', 'pbw']
